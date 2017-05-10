@@ -80,3 +80,4 @@ while stacks[0][1] and stacks[0][1][-1] != 1:
     it = stacks[0][1][-1]
     mv(stacks[0], stacks[it - 1])
 ext()
+ 
